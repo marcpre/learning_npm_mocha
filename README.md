@@ -2,6 +2,16 @@
 
 ## Mocha
 
+### Getting Started
+
+```
+$ npm install mocha
+$ mkdir test
+$ $EDITOR test/test.js # or open with your favorite editor
+```
+
+[MochaJS - Getting Started](https://mochajs.org/#getting-started)
+
 ### Run multiple test files:
 
 Run all tests in a file recursive:
